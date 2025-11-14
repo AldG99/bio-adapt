@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>sprites/tardigrade_idle.png</file>
+        <file>sprites/tardigrade_tun.png</file>
+        <file>sprites/tardigrade_dead.png</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file>backgrounds/water.png</file>
+        <file>backgrounds/ice.png</file>
+        <file>backgrounds/radiation.png</file>
+        <file>backgrounds/space.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>knowledge.json</file>
+    </qresource>
+</RCC>
